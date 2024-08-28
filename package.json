@@ -27,9 +27,7 @@
   "dependencies": {},
   "devDependencies": {
     "json-server": "^0.17.1"
-  }
-},
-{
+  },
   "transactions": [
     {
       "id": 1,
